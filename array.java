@@ -8,6 +8,7 @@ public class array {
             System.out.print(a[i]+", ");
         System.out.print(a[6]);
         System.out.print("]");
+        ggggg
     }
 
 
